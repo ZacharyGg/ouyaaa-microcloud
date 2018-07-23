@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-center.iml" filepath="$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-client/ouyaaa-auth-client.iml" filepath="$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-client/ouyaaa-auth-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-server/ouyaaa-auth-server.iml" filepath="$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-server/ouyaaa-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-common/ouyaaa-common.iml" filepath="$PROJECT_DIR$/ouyaaa-common/ouyaaa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-config-server/ouyaaa-config-bus/ouyaaa-config-bus.iml" filepath="$PROJECT_DIR$/ouyaaa-config-server/ouyaaa-config-bus/ouyaaa-config-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-config-server/ouyaaa-config-server.iml" filepath="$PROJECT_DIR$/ouyaaa-config-server/ouyaaa-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-gateway-server/ouyaaa-gateway-server.iml" filepath="$PROJECT_DIR$/ouyaaa-gateway-server/ouyaaa-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-gateway-server/ouyaaa-gateway-zuul/ouyaaa-gateway-zuul.iml" filepath="$PROJECT_DIR$/ouyaaa-gateway-server/ouyaaa-gateway-zuul/ouyaaa-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-microcloud.iml" filepath="$PROJECT_DIR$/ouyaaa-microcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-monitor-center/ouyaaa-monitor-center.iml" filepath="$PROJECT_DIR$/ouyaaa-monitor-center/ouyaaa-monitor-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-oauth-center/ouyaaa-oauth-center.iml" filepath="$PROJECT_DIR$/ouyaaa-oauth-center/ouyaaa-oauth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-oauth-center/ouyaaa-oauth-upms/ouyaaa-oauth-upms.iml" filepath="$PROJECT_DIR$/ouyaaa-oauth-center/ouyaaa-oauth-upms/ouyaaa-oauth-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-common/ouyaaa-security-core/ouyaaa-security-core.iml" filepath="$PROJECT_DIR$/ouyaaa-common/ouyaaa-security-core/ouyaaa-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-server-center/ouyaaa-server-center.iml" filepath="$PROJECT_DIR$/ouyaaa-server-center/ouyaaa-server-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouyaaa-server-center/ouyaaa-server-eureka/ouyaaa-server-eureka.iml" filepath="$PROJECT_DIR$/ouyaaa-server-center/ouyaaa-server-eureka/ouyaaa-server-eureka.iml" />
+    </modules>
+  </component>
+</project>

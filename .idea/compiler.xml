@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ouyaaa-auth-client" />
+        <module name="ouyaaa-auth-server" />
+        <module name="ouyaaa-config-bus" />
+        <module name="ouyaaa-gateway-zuul" />
+        <module name="ouyaaa-monitor-center" />
+        <module name="ouyaaa-oauth-upms" />
+        <module name="ouyaaa-security-core" />
+        <module name="ouyaaa-server-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ouyaaa-auth-center" target="1.8" />
+      <module name="ouyaaa-auth-client" target="1.8" />
+      <module name="ouyaaa-auth-server" target="1.8" />
+      <module name="ouyaaa-common" target="1.8" />
+      <module name="ouyaaa-config-bus" target="1.8" />
+      <module name="ouyaaa-config-server" target="1.8" />
+      <module name="ouyaaa-gateway-server" target="1.8" />
+      <module name="ouyaaa-gateway-zuul" target="1.8" />
+      <module name="ouyaaa-microcloud" target="1.8" />
+      <module name="ouyaaa-monitor-center" target="1.8" />
+      <module name="ouyaaa-oauth-center" target="1.8" />
+      <module name="ouyaaa-oauth-upms" target="1.8" />
+      <module name="ouyaaa-security-core" target="1.8" />
+      <module name="ouyaaa-server-center" target="1.8" />
+      <module name="ouyaaa-server-center-eureka" target="1.8" />
+      <module name="ouyaaa-server-eureka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

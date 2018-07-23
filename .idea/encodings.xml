@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-auth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-auth-center/ouyaaa-auth-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-common/ouyaaa-security-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-config-server/ouyaaa-config-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-gateway-server/ouyaaa-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-monitor-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-oauth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-oauth-center/ouyaaa-oauth-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-server-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouyaaa-server-center/ouyaaa-server-eureka" charset="UTF-8" />
+  </component>
+</project>
