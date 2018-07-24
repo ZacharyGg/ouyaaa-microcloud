@@ -16,6 +16,7 @@ public class OAuthClientProperties {
     private String clientId;
     private String clientSecret;
     private int validitySeconds = 7200;
+    private int refreshSeconds =360000000;
 
     public String getClientId() {
         return clientId;
@@ -40,4 +41,13 @@ public class OAuthClientProperties {
     public void setValiditySeconds(int validitySeconds) {
         this.validitySeconds = validitySeconds;
     }
+
+    public int getRefreshSeconds() {
+        return refreshSeconds;
+    }
+
+    public void setRefreshSeconds(int refreshSeconds) {
+        this.refreshSeconds = refreshSeconds;
+    }
 }
+

@@ -10,6 +10,8 @@ import cn.hlxd.auth.dto.UserInfo;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 
+import static javafx.scene.input.KeyCode.R;
+
 /**
  * Created with IntelliJ IDEA.
  * @Program：ouyaaa-microcloud

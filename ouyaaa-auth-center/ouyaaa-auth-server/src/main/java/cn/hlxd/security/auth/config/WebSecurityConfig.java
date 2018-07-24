@@ -23,7 +23,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 
 
 @Primary
-@Order(90)
+@Order(100)
 @Configuration
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override

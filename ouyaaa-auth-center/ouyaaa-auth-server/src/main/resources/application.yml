@@ -38,4 +38,5 @@ ouyaaa:
         clientId: ouyaaa
         clientSecret: ouyaaa
         validitySeconds: 19000
+        refreshSeconds: 30000000
       storeType: redis

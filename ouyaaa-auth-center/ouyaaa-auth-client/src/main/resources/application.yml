@@ -20,8 +20,6 @@ security:
 #      jwt:
 #        key-uri: http://127.0.0.1:9900/oauth/token_key
       token-info-uri: http://localhost:9900/oauth/check_token
-
-
 spring:
   application:
     name: auth-client
@@ -29,7 +27,3 @@ spring:
     user:
       name: admin
       password: 123456
-    oauth2:
-      client:
-        registration:
-        provider:
